@@ -18,13 +18,13 @@
 	
 // CW 3
 
-let array = [0, 1];
-let i;
-while((array[array.length - 1] + array[array.length - 2]) < 100) {
-i = array[array.length - 1] + array[array.length - 2];
-array.push(i);
-console.log(i);
-}
+// let array = [0, 1];
+// let i;
+// while((array[array.length - 1] + array[array.length - 2]) < 100) {
+// i = array[array.length - 1] + array[array.length - 2];
+// array.push(i);
+// console.log(i);
+// }
 
 // HOMEWORK
 
